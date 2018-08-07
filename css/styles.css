@@ -1,0 +1,22 @@
+body{ background-color: aqua;
+    
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+.stuff{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 20%;
+    border: 5px solid blue;
+}
+p{
+    border: 5px solid black;
+}
